@@ -1,0 +1,4 @@
+jenkinsDemo
+===========
+
+Short lived project
